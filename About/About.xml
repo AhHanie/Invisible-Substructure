@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Invisible Substructure</name>
+  <author>sigge</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>sigge.InvisibleSubstructure</packageId>
+  <description>
+    Adds a separate substructure that is completely invisibile
+  </description>
+</ModMetaData>
